@@ -1,5 +1,7 @@
 # Cat-and-Mouse-Game
 (copyright goes to Adam Aviv at The George Washington University for project creation and Plotter implementation)
+
+
 A point simulation which displays a cat and mouse chasing game.
 Level 0: Mice 
 
